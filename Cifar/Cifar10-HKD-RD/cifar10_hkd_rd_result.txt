@@ -1,0 +1,4 @@
+train mean loss=15.320225191116332
+test  mean loss=15.126434698104859
+train accuracy=0.60974
+test  accuracy=0.585
